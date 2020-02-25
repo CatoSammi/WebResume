@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Font Awesome Icon Library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.checked {
+  color: orange;
+}
+</style>
+</head>
+<body>
+
+<table  style="width:60%">
+
+  <tr>
+    <th align="left">Skills</th>
+    <th align="left">Rating </th>
+    <th align="left">Skills</th>
+    <th align="left">Rating </th>
+  </tr>
+ 
+ 
+  <tr>
+    <td>HTML5 </td>
+
+    <td><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></td>
+
+    <td>Adobe Acrobat </td>
+
+    <td><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></td>
+
+
+
+  </tr>
+  
+  <tr>
+    <td>CSS3</td>
+    <td><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span></td>
+ 
+ 	
+    <td>Adobe After Effects </td>
+
+    <td><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></td>
+ 
+ 
+ 
+ </tr>
+  
+  <tr>
+    <td>Javascript EC6</td>
+    <td><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></td>
+  
+    <td>Adobe Photoshop </td>
+
+    <td><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></td>
+  
+  
+  
+  </tr>
+
+
+</table>
+
+
+
+
+
+</body>
+</html>
